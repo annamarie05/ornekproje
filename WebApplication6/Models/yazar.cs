@@ -5,8 +5,7 @@ using System.Web;
 
 namespace WebApplication6.Models
 {
-    public class Class1
+    public class yazar
     {
-
     }
 }
